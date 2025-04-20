@@ -63,7 +63,6 @@ Exports all blockchain-logged entries into a CSV file:
 ```bash
 python export_blockchain_logs.py
 ```
-### Folder Structure
 
 ### Folder Structure
 
@@ -129,7 +128,6 @@ Muhammad Osama Nusrat
 MS Artificial Intelligence
 FAST NUCES, Islamabad
 Email: osamanusrat786@gmail.com
-GitHub: github.com/mnusrat786
 
 ## Acknowledgements
 
