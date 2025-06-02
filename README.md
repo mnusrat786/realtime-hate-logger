@@ -1,6 +1,7 @@
+
 # Blockchain Hate Logger
 
-Blockchain Hate Logger is a real-time simulation system that detects hate speech in tweets using a transformer-based model (DeHateBERT) and logs flagged content immutably on the Ethereum blockchain using smart contracts and SHA-256 hashing.
+Blockchain Hate Logger as is a real-time simulation system that detects hate speech in tweets using a transformer-based model (DeHateBERT) and logs flagged content immutably on the Ethereum blockchain using smart contracts and SHA-256 hashing.
 
 This project demonstrates how AI and blockchain can be integrated to enable tamper-proof, privacy-preserving, and verifiable content moderation.
 
