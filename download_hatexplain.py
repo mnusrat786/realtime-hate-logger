@@ -1,6 +1,5 @@
 import requests
 import os
-
 # Ensure the 'data' directory exists
 os.makedirs("data", exist_ok=True)
 
